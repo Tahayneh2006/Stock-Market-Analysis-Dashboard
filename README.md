@@ -1,4 +1,3 @@
-# Stock-Market-Analysis-Dashboard
 
 # Stock Market Performance Analysis Dashboard
 
